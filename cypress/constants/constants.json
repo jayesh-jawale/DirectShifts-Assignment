@@ -1,0 +1,51 @@
+{
+  "directShifts": "DirectShifts",
+  "jobTitle": "Physicians - Hospital/Telehealth Openings",
+  "job_location": "Washington, DC",
+  "specialties": {
+    "anesthesiology": "Anesthesiology",
+    "dermatology": "Dermatology",
+    "emergencyMedicine": "Emergency Medicine",
+    "familyMedicine": "Family Medicine",
+    "internalMedicine": "Internal Medicine",
+    "gastroenterology": "Gastroenterology",
+    "psychiatry": "Psychiatry",
+    "neurology": "Neurology"
+  },
+  "jobDetails": {
+    "employer": "Employer",
+    "category": "Category",
+    "shiftType": "Shift Type",
+    "salaryWeek": "Salary/Week",
+    "visaSponsorship": "Visa Sponsorship"
+  },
+  "signIn": "Sign In",
+  "signInText": "Sign Into see complete details",
+  "description": {
+    "descriptionTextOne": "DirectShifts is actively recruiting Physicians for exclusive opportunities with startups and hospitals across the U.S.! ",
+    "descriptionTextTwo": "Board Eligible and Board Certified candidates are both welcome to apply!",
+    "descriptionTextThree": "We have multiple telehealth, hospital, and short-notice openings available for qualified candidates.",
+    "descriptionTextFour": "Licenses in multiple states is a big plus. ",
+    "descriptionTextFive": "As a YCombinator-backed startup, we’re able to offer highly competitive pay for our open roles."
+  },
+  "requirements": {
+    "requirementsText": "Requirements:",
+    "firstRequirement": "Active State License",
+    "secondRequirement": "Board Certification (if available)",
+    "thirdRequirement": "Must have completed a related residency"
+  },
+  "applyToLearnMore": "Apply to learn more!",
+  "aboutDirectShiftsTitle": "About DirectShifts",
+  "aboutDirectShiftsText": "We connect clinicians with hospitals directly, bypassing external staffing agencies or recruiters.",
+  "aboutDirectShiftAdvantages": {
+    "advantageOne": "Earn more money",
+    "advantageTwo": "Fully transparent",
+    "advantageThree": "Online Credentialing"
+  },
+  "copyright": "© 2023. All rights reserved.",
+  "footerEmail": "support@directshifts.com",
+  "footerPhoneNumber": "917-310-2460",
+  "newPassword": "Password@123",
+  "termsTextMessage": "By clicking Apply Now, you agree to our Terms and Privacy.",
+  "successfullApplicationText": "Your application has been sent!"
+}
